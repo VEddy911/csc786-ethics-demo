@@ -8,3 +8,4 @@ Example entry format (udpate to match your data):
 ---
 
 - {"timestamp_utc": "2025-10-27T015710Z", "endpoint": "https://api.open-meteo.com/v1/forecast", "params": {"latitude": 44.6, "longitude": -96.8, "hourly": "temperature_2m", "forecast_days": 1}, "output": "hourly_temps_2025-10-27T015710Z.csv", "sha256": "5ef62bf2fe81a8cb04d10914d2d3f129d520877c005992cc66da03b36c481a62", "python": "3.12.12", "pandas": "2.2.2", "requests": "2.32.4"}
+- {"timestamp_utc": "2025-10-27T020540Z", "endpoint": "https://api.open-meteo.com/v1/forecast", "params": {"latitude": 44.6, "longitude": -96.8, "hourly": "temperature_2m", "forecast_days": 1}, "output": "hourly_temps_2025-10-27T020540Z.csv", "sha256": "5ef62bf2fe81a8cb04d10914d2d3f129d520877c005992cc66da03b36c481a62", "python": "3.12.12", "pandas": "2.2.2", "requests": "2.32.4"}
